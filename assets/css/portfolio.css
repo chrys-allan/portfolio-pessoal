@@ -1,0 +1,30 @@
+.navigation{
+    box-shadow: 0 0.06rem 0.2rem #09599b;
+}
+.home-content a{
+    display: flex;
+    justify-content: center;
+    font-size: 1.9rem;
+    padding-top: 16px;
+}
+.home-content span{    
+    display: flex;
+    justify-content: center;
+    font-size: 0.8;
+    color: red;
+    padding-bottom: 10px;
+}
+.img-box{   /* Dimensionamento da imagem */
+    display: flex;
+    justify-content: center;
+    height: 380px;
+}
+.img{
+    border-radius: 12px;
+}
+.home-text p{
+    text-align: center;
+}
+b{
+    font-size: 3.3rem;
+}
